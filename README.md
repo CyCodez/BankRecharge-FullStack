@@ -1,6 +1,5 @@
-# BankRecharge — MongoDB Native Driver Edition
+# BankRecharge
 
-BankRecharge is a standalone full-stack digital wallet and recharge simulation built with React, Node.js, Express and the official MongoDB Node.js driver.
 BankRecharge is a standalone full-stack digital wallet and recharge simulation built with React, Node.js, Express and the official MongoDB Node.js driver.
 
 ## What this project demonstrates
@@ -17,7 +16,6 @@ BankRecharge is a standalone full-stack digital wallet and recharge simulation b
 - Loading, success and error states on the client
 - Responsive dashboard
 - Environment-based API/database configuration
-- Async/await throughout the application
 
 ## Important MongoDB driver fix
 
