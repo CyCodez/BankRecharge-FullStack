@@ -1,6 +1,7 @@
 # BankRecharge — MongoDB Native Driver Edition
 
 BankRecharge is a standalone full-stack digital wallet and recharge simulation built with React, Node.js, Express and the official MongoDB Node.js driver.
+BankRecharge is a standalone full-stack digital wallet and recharge simulation built with React, Node.js, Express and the official MongoDB Node.js driver.
 
 ## What this project demonstrates
 
@@ -23,7 +24,6 @@ BankRecharge is a standalone full-stack digital wallet and recharge simulation b
 This project is written for the modern MongoDB Node.js driver. `findOneAndUpdate()` returns the updated document directly when `includeResultMetadata` is not enabled. The application therefore uses:
 
 const wallet = await collection.findOneAndUpdate(...);
-
 
 ## Project structure
 
@@ -120,7 +120,7 @@ Open the Vite URL shown in the terminal.
 
 ## Async/await requirement
 
-The application uses `async`/`await` for asynchronous API, MongoDB and server startup operations. There is no `.then()` promise chaining in the application source.
+The application uses `async`/`await` for asynchronous API, MongoDB and server startup operations.
 
 ## Important
 
