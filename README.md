@@ -58,7 +58,7 @@ BankRecharge-MongoDB-Edition/
 ```bash
 cd server
 npm install
-```
+
 
 Create `server/.env` from `.env.example`:
 
